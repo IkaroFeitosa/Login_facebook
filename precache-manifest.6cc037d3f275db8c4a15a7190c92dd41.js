@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "764eedbcbfe7dc478eb9f6a57fd157d2",
+    "revision": "ff19790e7e381ec161357e184ce77918",
     "url": "/Login_facebook/index.html"
   },
   {
-    "revision": "cf6d678f9ab6511e29ac",
+    "revision": "93f3658a5c53582f6330",
     "url": "/Login_facebook/static/css/main.4d327a7e.chunk.css"
   },
   {
-    "revision": "f2fa3b30111d793e32bc",
-    "url": "/Login_facebook/static/js/2.0fa98c57.chunk.js"
+    "revision": "82851a279c9220748411",
+    "url": "/Login_facebook/static/js/2.7a0cea28.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Login_facebook/static/js/2.0fa98c57.chunk.js.LICENSE.txt"
+    "url": "/Login_facebook/static/js/2.7a0cea28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf6d678f9ab6511e29ac",
-    "url": "/Login_facebook/static/js/main.60740dd8.chunk.js"
+    "revision": "93f3658a5c53582f6330",
+    "url": "/Login_facebook/static/js/main.2cd6cc50.chunk.js"
   },
   {
     "revision": "a1c9ba9f7412272b1304",

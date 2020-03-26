@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Login_facebook/static/css/main.4d327a7e.chunk.css",
-    "main.js": "/Login_facebook/static/js/main.60740dd8.chunk.js",
-    "main.js.map": "/Login_facebook/static/js/main.60740dd8.chunk.js.map",
+    "main.js": "/Login_facebook/static/js/main.2cd6cc50.chunk.js",
+    "main.js.map": "/Login_facebook/static/js/main.2cd6cc50.chunk.js.map",
     "runtime-main.js": "/Login_facebook/static/js/runtime-main.56d73a33.js",
     "runtime-main.js.map": "/Login_facebook/static/js/runtime-main.56d73a33.js.map",
-    "static/js/2.0fa98c57.chunk.js": "/Login_facebook/static/js/2.0fa98c57.chunk.js",
-    "static/js/2.0fa98c57.chunk.js.map": "/Login_facebook/static/js/2.0fa98c57.chunk.js.map",
+    "static/js/2.7a0cea28.chunk.js": "/Login_facebook/static/js/2.7a0cea28.chunk.js",
+    "static/js/2.7a0cea28.chunk.js.map": "/Login_facebook/static/js/2.7a0cea28.chunk.js.map",
     "index.html": "/Login_facebook/index.html",
-    "precache-manifest.d21a083e80e96e989afc4e40e5b8d1d9.js": "/Login_facebook/precache-manifest.d21a083e80e96e989afc4e40e5b8d1d9.js",
+    "precache-manifest.6cc037d3f275db8c4a15a7190c92dd41.js": "/Login_facebook/precache-manifest.6cc037d3f275db8c4a15a7190c92dd41.js",
     "service-worker.js": "/Login_facebook/service-worker.js",
     "static/css/main.4d327a7e.chunk.css.map": "/Login_facebook/static/css/main.4d327a7e.chunk.css.map",
-    "static/js/2.0fa98c57.chunk.js.LICENSE.txt": "/Login_facebook/static/js/2.0fa98c57.chunk.js.LICENSE.txt",
+    "static/js/2.7a0cea28.chunk.js.LICENSE.txt": "/Login_facebook/static/js/2.7a0cea28.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Login_facebook/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.56d73a33.js",
-    "static/js/2.0fa98c57.chunk.js",
+    "static/js/2.7a0cea28.chunk.js",
     "static/css/main.4d327a7e.chunk.css",
-    "static/js/main.60740dd8.chunk.js"
+    "static/js/main.2cd6cc50.chunk.js"
   ]
 }

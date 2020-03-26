@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Login_facebook/static/css/main.de126974.chunk.css",
-    "main.js": "/Login_facebook/static/js/main.1c644a42.chunk.js",
-    "main.js.map": "/Login_facebook/static/js/main.1c644a42.chunk.js.map",
+    "main.js": "/Login_facebook/static/js/main.207d8474.chunk.js",
+    "main.js.map": "/Login_facebook/static/js/main.207d8474.chunk.js.map",
     "runtime-main.js": "/Login_facebook/static/js/runtime-main.56d73a33.js",
     "runtime-main.js.map": "/Login_facebook/static/js/runtime-main.56d73a33.js.map",
     "static/js/2.0fa98c57.chunk.js": "/Login_facebook/static/js/2.0fa98c57.chunk.js",
     "static/js/2.0fa98c57.chunk.js.map": "/Login_facebook/static/js/2.0fa98c57.chunk.js.map",
     "index.html": "/Login_facebook/index.html",
-    "precache-manifest.228a9da0b1aba4b7a9f609983ee35db2.js": "/Login_facebook/precache-manifest.228a9da0b1aba4b7a9f609983ee35db2.js",
+    "precache-manifest.491ab8a51839f36d9a24fe7d7b96dffd.js": "/Login_facebook/precache-manifest.491ab8a51839f36d9a24fe7d7b96dffd.js",
     "service-worker.js": "/Login_facebook/service-worker.js",
     "static/css/main.de126974.chunk.css.map": "/Login_facebook/static/css/main.de126974.chunk.css.map",
     "static/js/2.0fa98c57.chunk.js.LICENSE.txt": "/Login_facebook/static/js/2.0fa98c57.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.56d73a33.js",
     "static/js/2.0fa98c57.chunk.js",
     "static/css/main.de126974.chunk.css",
-    "static/js/main.1c644a42.chunk.js"
+    "static/js/main.207d8474.chunk.js"
   ]
 }
